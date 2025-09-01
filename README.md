@@ -1,33 +1,34 @@
-📊 Financial Sentiment Analysis
-🔍 Overview
-This project analyzes the sentiment of financial text data such as news articles, reports, or social media posts. The goal is to classify the sentiment behind the text as positive, negative, or neutral.
 
-Financial sentiment analysis helps investors and analysts understand market feelings and make better decisions based on how the public perceives companies or financial events.
+# 📊 Financial Sentiment Analysis
 
-📚 Dataset
-The dataset contains sentences or paragraphs from financial sources along with sentiment labels: positive, negative, or neutral.
+## 🔍 Overview
 
-Each entry has:
+This project analyzes financial text data—such as news articles, reports, and social media posts—to classify their sentiment into three main categories: **positive**, **negative**, and **neutral**.
 
-📝 Text: The financial sentence or news excerpt.
+The goal is to help investors and analysts understand market sentiment and make more informed decisions based on the prevailing opinions expressed in financial texts.
 
-😀😐☹️ Sentiment: The sentiment category labeled for the text.
+## 📚 Dataset
 
-⚙️ What This Project Does
-📥 Reads and cleans financial text data.
+The dataset contains sentences or paragraphs from financial sources, each labeled with a sentiment class.
 
-🏷️ Assigns sentiment labels to financial texts.
+Each entry includes:  
+- 📝 **Text:** The financial sentence or news excerpt.  
+- 😀😐☹️ **Sentiment:** The sentiment label (positive, neutral, or negative).
 
-📈 Shows how sentiment varies across different financial topics or time periods.
+## ⚙️ What This Project Does
 
-📊 Helps to interpret and visualize sentiment trends in financial markets.
+- 📥 Loads and processes financial text data.  
+- 🏷️ Classifies text into sentiment categories.  
+- 📈 Presents insights into sentiment trends within financial markets.  
+- 📊 Provides visualizations of sentiment distribution.
 
-🚀 How to Use
-📂 Load the provided dataset.
+## 🚀 How to Use
 
-🏃 Run the sentiment analysis process to classify text sentiment.
+1. 📂 Load the financial sentiment dataset provided in the repository.  
+2. 🏃 Run the sentiment classification process.  
+3. 👀 Explore and visualize the sentiment analysis results.
 
-👀 Explore the results and visualize sentiment distribution.
+## 💡 Why It Matters
 
-💡 Why It Matters
-Financial markets are influenced not only by numbers but also by public opinion and news sentiment. Analyzing sentiment gives valuable insights into market mood and potential stock movements.
+Market movements are influenced not just by data but also by public sentiment. Understanding financial sentiment gives valuable insights into investor psychology and potential market trends.
+
